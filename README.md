@@ -1,6 +1,6 @@
 # 👨‍💻CODSOFT INTERNSHIP📚
 
-✅Task-1[Calculator]
+✅Task-1[ATM Interface]
 <br>
 ◽Language Used : Java
 <br>
