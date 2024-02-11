@@ -10,7 +10,7 @@
 ◽Language Used : Java
 <br>
 <br>
-✅Task-3[...]
+✅Task-3[Word Counter]
 <br>
 ◽Language Used : Java
 
